@@ -1,0 +1,23 @@
+body{
+    background: rgb(218, 218, 203);
+    font-style: italic;
+    font-weight:bolder ;
+}
+li{
+    display: inline;
+   text-align: center;
+   text-decoration: lightblue;
+}
+h1{
+    color: firebrick;
+    font-family: monospace;
+    text-align: unset;
+   text-align:initial; 
+}
+p
+{
+    color: maroon;
+    color: maroon
+    
+}
+  
